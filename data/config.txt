@@ -1,0 +1,2 @@
+API_host
+https://sboardapi.han-q.co.kr
